@@ -34,3 +34,10 @@
 
 ### Serviceable or Manageability
 * how easy the system is to operate and maintain. (error notification)
+
+
+## Load Balancing
+* Load Balancing is the process of distributing traffic across multiple servers or databases.
+* Important benefits: faster,uninterrupted service, avoid single point failure
+* Load balancing algorithms (health checks): least connection method, least response time method, round robin method, weight round robin, Ip hash.
+
