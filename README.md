@@ -47,3 +47,12 @@
 * Cache invalidation write-through、write-around、write-back
 * Cache eviction policies： FIFO LRU MRU...
 
+## Data Partitioning
+* A  technique to break up a big database into many samller parts.
+* Horizontal partitioning-data sharding （row） 
+* Vertical  partitioning
+* directory based partitioning
+* partitioning
+* directory based
+* partitioning criteria: hash-base, list, round-robin, composite
+* challenges: Join, Index...
