@@ -56,3 +56,6 @@
 * directory based
 * partitioning criteria: hash-base, list, round-robin, composite
 * challenges: Join, Index...
+
+## Index
+* index takes space and decrease the write and update performance, because we need to update index.
