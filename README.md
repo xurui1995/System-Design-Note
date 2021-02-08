@@ -41,3 +41,9 @@
 * Important benefits: faster,uninterrupted service, avoid single point failure
 * Load balancing algorithms (health checks): least connection method, least response time method, round robin method, weight round robin, Ip hash.
 
+## Cache
+* principle: recently requested data us likely to be requested again.
+* CDN
+* Cache invalidation write-through、write-around、write-back
+* Cache eviction policies： FIFO LRU MRU...
+
